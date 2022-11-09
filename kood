@@ -1,0 +1,7 @@
+import math
+import time
+import pygame
+
+x=1
+z=1
+y=1
